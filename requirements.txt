@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+pytesseract
+easyocr
+pandas
+google-generativeai
+python-dotenv
+pdf2image
+torch
